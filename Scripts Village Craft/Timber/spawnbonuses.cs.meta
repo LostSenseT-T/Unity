@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d26ddd3909d79404fbac8671a68cfb6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - x2bonus: {fileID: 967204025057201977, guid: a133b8359cdf6d8458b9efa857744849,
+      type: 3}
+  - undeadbonus: {fileID: 7493090116787446099, guid: d7edd40e65545ea4982d196e8581d17e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
